@@ -1,0 +1,51 @@
+{
+	"details":{
+		"name":"mounika",
+		"phone":"956823147",
+	    "email":"mounikapatibandla8@gmail.com",
+         "image":"images.png"
+		},
+		"education":[
+			{
+				"course":"MCA",
+				"college":"DVR&Hs MIC college of technology",
+				"percentage":"81%"
+			},
+			{
+				"course":"BSc(MSCS)",
+				"college":"krishna chaitanya",
+				"percentage":"90%"
+			},
+			{
+				"course":"inter(MPC)",
+				"college":"krishna chaitanya",
+				"percentage":"89%"
+			},
+			{
+			    "course":"ssc",
+				"college":"ZPHSchool",
+				"percentage":"82%"
+			}
+	],
+	"skills":[
+		{
+			"title":"programming languages",
+			"output":[
+				"c","c++","java","python"
+	]
+		},
+		{
+			"title":"opearating system",
+			"output":[
+				"linux","mac"
+			]
+		}
+],
+	"carrier":
+		{
+ "co":"To obtain the best possition  in your company,I use my technichical knowledge and skills for company developement"
+
+}
+
+}
+
